@@ -5,7 +5,7 @@
 #input style
 #\\\\\\
 
-#   name = input('what is your name nigga:  ')
+#   name = input('what is your name?:  ')
 #   print('hi ' +name)
 #   color = input('whats ur favorite color?: ')
 #   print(name + ' likes ' +color)
